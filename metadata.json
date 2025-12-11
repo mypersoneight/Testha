@@ -1,0 +1,5 @@
+{
+  "name": "Magic Message Revealer",
+  "description": "An interactive application that reveals messages on command, featuring instant greetings and AI-generated wisdom using Google Gemini.",
+  "requestFramePermissions": []
+}
